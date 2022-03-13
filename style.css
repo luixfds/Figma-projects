@@ -1,0 +1,36 @@
+.header{
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ffffff;
+    padding: 2%;
+}
+.tittle{
+    font-size: 70px;
+    color: #0f0f0f;
+    margin: 0%;
+    padding: 0%;
+}
+.span{
+    font-size: 20px;
+    color: #4f4f4f;
+    margin-top: 1%;
+    padding: 0%;
+}
+.subtittle{
+    font-size: 20px;
+    color: #4f4f4f;
+    margin-top: 3%;
+}
+.img{
+    width: 5%;
+    height: 5%;
+}
+.content{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:#f2f2f2;
+    padding: 5%;
+}
+.webview{
+    font-size: 30px;
+    color: #242424;
+}
